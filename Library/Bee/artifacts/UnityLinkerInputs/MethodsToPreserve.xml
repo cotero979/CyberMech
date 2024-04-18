@@ -1,0 +1,13 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="CamaraFollower">
+			<method name="CameraDeadRespawn"/>
+		</type>
+		<type fullname="CambiodeEscena">
+			<method name="cambiodesescna"/>
+			<method name="cambiodesescna"/>
+			<method name="cambiodesescna"/>
+			<method name="salirdeescena"/>
+		</type>
+	</assembly>
+</linker>
